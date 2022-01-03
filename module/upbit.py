@@ -160,6 +160,7 @@ def get_items(market, except_item):
 
         return rtn_list
 
+
     # --
     # Exception Raise
     # --
